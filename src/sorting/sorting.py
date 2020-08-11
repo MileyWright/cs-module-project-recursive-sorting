@@ -4,6 +4,10 @@ def merge(arrA, arrB):
     merged_arr = [0] * elements
 
     # Your code here
+    a_counter = 0
+    b_counter = 0
+    
+    for i in range(0, elements)
 
 
     return merged_arr
